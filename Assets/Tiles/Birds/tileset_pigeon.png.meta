@@ -1,0 +1,1412 @@
+fileFormatVersion: 2
+guid: ac5e090fd21f4b143ba7206f9e450254
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 527163634726993101
+    second: tileset_pigeon_0
+  - first:
+      213: 1710469058228574048
+    second: tileset_pigeon_1
+  - first:
+      213: 1134342933483607552
+    second: tileset_pigeon_2
+  - first:
+      213: 6669185654170833407
+    second: tileset_pigeon_3
+  - first:
+      213: -6813670288847269338
+    second: tileset_pigeon_4
+  - first:
+      213: 6276454880203449787
+    second: tileset_pigeon_5
+  - first:
+      213: 173110049351523104
+    second: tileset_pigeon_6
+  - first:
+      213: 5993170729130506657
+    second: tileset_pigeon_7
+  - first:
+      213: -7922730456178865416
+    second: tileset_pigeon_8
+  - first:
+      213: 758475488809444358
+    second: tileset_pigeon_9
+  - first:
+      213: 2877955275118701783
+    second: tileset_pigeon_10
+  - first:
+      213: -8499544710988262148
+    second: tileset_pigeon_11
+  - first:
+      213: -1519295873873358644
+    second: tileset_pigeon_12
+  - first:
+      213: -3541491067971327882
+    second: tileset_pigeon_13
+  - first:
+      213: -3262198808701638813
+    second: tileset_pigeon_14
+  - first:
+      213: 8139860078586057969
+    second: tileset_pigeon_15
+  - first:
+      213: -4189118158449900922
+    second: tileset_pigeon_16
+  - first:
+      213: 9058383989050169634
+    second: tileset_pigeon_17
+  - first:
+      213: -2758706066437783480
+    second: tileset_pigeon_18
+  - first:
+      213: -4919036736646801040
+    second: tileset_pigeon_19
+  - first:
+      213: 8277879992233058096
+    second: tileset_pigeon_20
+  - first:
+      213: 6141844866075896500
+    second: tileset_pigeon_21
+  - first:
+      213: -1647747243871899635
+    second: tileset_pigeon_22
+  - first:
+      213: 455186629457435876
+    second: tileset_pigeon_23
+  - first:
+      213: 5977553581846986599
+    second: tileset_pigeon_24
+  - first:
+      213: 8932670600025762018
+    second: tileset_pigeon_25
+  - first:
+      213: 8553621417889952245
+    second: tileset_pigeon_26
+  - first:
+      213: 5297754859485350902
+    second: tileset_pigeon_27
+  - first:
+      213: 3341763814680350178
+    second: tileset_pigeon_28
+  - first:
+      213: -7284583208658519800
+    second: tileset_pigeon_29
+  - first:
+      213: 1578365686248367493
+    second: tileset_pigeon_30
+  - first:
+      213: 5666595306634076595
+    second: tileset_pigeon_31
+  - first:
+      213: 6707219104676125992
+    second: tileset_pigeon_32
+  - first:
+      213: -3547501698508901987
+    second: tileset_pigeon_33
+  - first:
+      213: 121046026376447205
+    second: tileset_pigeon_34
+  - first:
+      213: -1116721472861649240
+    second: tileset_pigeon_35
+  - first:
+      213: -5350609689322626160
+    second: tileset_pigeon_36
+  - first:
+      213: -6523917644401606170
+    second: tileset_pigeon_37
+  - first:
+      213: -8938006338558945933
+    second: tileset_pigeon_38
+  - first:
+      213: 7982908085779248637
+    second: tileset_pigeon_39
+  - first:
+      213: 4989292471582012495
+    second: tileset_pigeon_40
+  - first:
+      213: 8886710688685349327
+    second: tileset_pigeon_41
+  - first:
+      213: -5274392706973688717
+    second: tileset_pigeon_42
+  - first:
+      213: -8072906721537627985
+    second: tileset_pigeon_43
+  - first:
+      213: 1324001414585508679
+    second: tileset_pigeon_44
+  - first:
+      213: -7661436348445519093
+    second: tileset_pigeon_45
+  - first:
+      213: -7189381485450838072
+    second: tileset_pigeon_46
+  - first:
+      213: 5224874446109492045
+    second: tileset_pigeon_47
+  - first:
+      213: -4521947643011104938
+    second: tileset_pigeon_48
+  - first:
+      213: 1411080503832462491
+    second: tileset_pigeon_49
+  - first:
+      213: -4903864059303120051
+    second: tileset_pigeon_50
+  - first:
+      213: 2046693445785011105
+    second: tileset_pigeon_51
+  - first:
+      213: -2545822777095290543
+    second: tileset_pigeon_52
+  - first:
+      213: -2509779985794110549
+    second: tileset_pigeon_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset_pigeon_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 326
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccf762688cd05700800000000000000
+      internalID: 527163634726993101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067d207cb8eccb710800000000000000
+      internalID: 1710469058228574048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 334
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006d3c353eefdbf00800000000000000
+      internalID: 1134342933483607552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 326
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1dbf18405bd8c50800000000000000
+      internalID: 6669185654170833407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62210a009faf071a0800000000000000
+      internalID: -6813670288847269338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 334
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb52b4f95727a1750800000000000000
+      internalID: 6276454880203449787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 326
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bd5a63ca2076200800000000000000
+      internalID: 173110049351523104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 336
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9b71466050c2350800000000000000
+      internalID: 5993170729130506657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_8
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 334
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa4a4460aecc0290800000000000000
+      internalID: -7922730456178865416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 262
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604e3514075a68a00800000000000000
+      internalID: 758475488809444358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc69ec131d80f720800000000000000
+      internalID: 2877955275118701783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 270
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf49efc2e1d8b0a80800000000000000
+      internalID: -8499544710988262148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0df09c3706aeae0800000000000000
+      internalID: -1519295873873358644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 269
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678a95623a81adec0800000000000000
+      internalID: -3541491067971327882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 267
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367e2a4a7775ab2d0800000000000000
+      internalID: -3262198808701638813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 262
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f451895d9796f070800000000000000
+      internalID: 8139860078586057969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 272
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6828473da334dd5c0800000000000000
+      internalID: -4189118158449900922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_17
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 270
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229db62ae38d5bd70800000000000000
+      internalID: 9058383989050169634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 193
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840c246e27b17b9d0800000000000000
+      internalID: -2758706066437783480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 193
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079121376221cbbb0800000000000000
+      internalID: -4919036736646801040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 193
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f5d5eaeffe0e270800000000000000
+      internalID: 8277879992233058096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 206
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baa2046d573c3550800000000000000
+      internalID: 6141844866075896500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 208
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00f261ac960229e0800000000000000
+      internalID: -1647747243871899635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_23
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 202
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec515be3d5215600800000000000000
+      internalID: 455186629457435876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 193
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f7adfef4984f250800000000000000
+      internalID: 5977553581846986599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 197
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e86c1a559837fb70800000000000000
+      internalID: 8932670600025762018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_26
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 199
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1f08c4c5194b670800000000000000
+      internalID: 8553621417889952245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 134
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb49bad9f7658940800000000000000
+      internalID: 5297754859485350902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 145
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edc649eb74506e20800000000000000
+      internalID: 3341763814680350178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 144
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8093227ca26f7ea90800000000000000
+      internalID: -7284583208658519800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 142
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585ef76aa3b77e510800000000000000
+      internalID: 1578365686248367493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 134
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1e1d1986ac3ae40800000000000000
+      internalID: 5666595306634076595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_32
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 134
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d1fe44d34d41d50800000000000000
+      internalID: 6707219104676125992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 129
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91384c200eb4cec0800000000000000
+      internalID: -3547501698508901987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_34
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 129
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e404ab38ba0ea100800000000000000
+      internalID: 121046026376447205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 129
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6c701bcbb9080f0800000000000000
+      internalID: -1116721472861649240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 81
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093692816d0deb5b0800000000000000
+      internalID: -5350609689322626160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 81
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e10a85b7736675a0800000000000000
+      internalID: -6523917644401606170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_38
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 81
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37511063792d5f380800000000000000
+      internalID: -8938006338558945933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 65
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df53777db9cf8ce60800000000000000
+      internalID: 7982908085779248637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_40
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 70
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f443d2981178d3540800000000000000
+      internalID: 4989292471582012495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_41
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 70
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9d1cc9940f35b70800000000000000
+      internalID: 8886710688685349327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_42
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c1ce627c79dc6b0800000000000000
+      internalID: -5274392706973688717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_43
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 65
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8e2eddb1647ff80800000000000000
+      internalID: -8072906721537627985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_44
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 65
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743eb7e854ccf5210800000000000000
+      internalID: 1324001414585508679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0393adab3c1da590800000000000000
+      internalID: -7661436348445519093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_46
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 12
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfbee441af2a3c90800000000000000
+      internalID: -7189381485450838072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 12
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d434f5c40ab728840800000000000000
+      internalID: 5224874446109492045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f7865b390de31c0800000000000000
+      internalID: -4521947643011104938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_49
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94c964fd3a259310800000000000000
+      internalID: 1411080503832462491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_50
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43be6eae99f1fbb0800000000000000
+      internalID: -4903864059303120051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3c22858d0576c10800000000000000
+      internalID: 2046693445785011105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151032e2cab6bacd0800000000000000
+      internalID: -2545822777095290543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pigeon_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab6b5a76687b2dd0800000000000000
+      internalID: -2509779985794110549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 90b8325db79494844b2f7241cc567ffe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

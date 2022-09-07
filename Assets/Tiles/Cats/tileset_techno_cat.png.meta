@@ -1,0 +1,788 @@
+fileFormatVersion: 2
+guid: a3413633838536843988099f0b71d7fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1951753122839119687
+    second: tileset_techno_cat_0
+  - first:
+      213: 1240718803219938491
+    second: tileset_techno_cat_1
+  - first:
+      213: -7494479680037412498
+    second: tileset_techno_cat_2
+  - first:
+      213: -1299197888396395370
+    second: tileset_techno_cat_3
+  - first:
+      213: -3897983567996501036
+    second: tileset_techno_cat_4
+  - first:
+      213: 8241748350404872009
+    second: tileset_techno_cat_5
+  - first:
+      213: 4408780211135121438
+    second: tileset_techno_cat_6
+  - first:
+      213: 2763077958898976184
+    second: tileset_techno_cat_7
+  - first:
+      213: 8533486017186066784
+    second: tileset_techno_cat_8
+  - first:
+      213: 2231923155207506769
+    second: tileset_techno_cat_9
+  - first:
+      213: 9102468171073718000
+    second: tileset_techno_cat_10
+  - first:
+      213: 9122020824443547347
+    second: tileset_techno_cat_11
+  - first:
+      213: 511187954376346526
+    second: tileset_techno_cat_12
+  - first:
+      213: -4114881030633368227
+    second: tileset_techno_cat_13
+  - first:
+      213: -1614914594838991640
+    second: tileset_techno_cat_14
+  - first:
+      213: 8716391614191152011
+    second: tileset_techno_cat_15
+  - first:
+      213: -918148117033007569
+    second: tileset_techno_cat_16
+  - first:
+      213: -3163445740793265573
+    second: tileset_techno_cat_17
+  - first:
+      213: 2593215519168045826
+    second: tileset_techno_cat_18
+  - first:
+      213: 5807655329908349474
+    second: tileset_techno_cat_19
+  - first:
+      213: 7863674966087455259
+    second: tileset_techno_cat_20
+  - first:
+      213: 3486598612571007490
+    second: tileset_techno_cat_21
+  - first:
+      213: -2611107290721554352
+    second: tileset_techno_cat_22
+  - first:
+      213: -8669607111714953626
+    second: tileset_techno_cat_23
+  - first:
+      213: -6495836045787603253
+    second: tileset_techno_cat_24
+  - first:
+      213: 2856944059407210606
+    second: tileset_techno_cat_25
+  - first:
+      213: 6418300346232143606
+    second: tileset_techno_cat_26
+  - first:
+      213: 9141792443617247980
+    second: tileset_techno_cat_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset_techno_cat_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 830
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b83ae720eaf9e4e0800000000000000
+      internalID: -1951753122839119687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 829
+        width: 81
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc721c8d2be73110800000000000000
+      internalID: 1240718803219938491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_2
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 829
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61acfe30724ef790800000000000000
+      internalID: -7494479680037412498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 831
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cf139676258fde0800000000000000
+      internalID: -1299197888396395370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 695
+        width: 108
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d34249e89497e9c0800000000000000
+      internalID: -3897983567996501036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 694
+        width: 107
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9474b024572906270800000000000000
+      internalID: 8241748350404872009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 693
+        width: 107
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e180b794e322f2d30800000000000000
+      internalID: 4408780211135121438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_7
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 694
+        width: 108
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b582e2a3cc685620800000000000000
+      internalID: 2763077958898976184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 549
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061732ef1580d6670800000000000000
+      internalID: 8533486017186066784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_9
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 547
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bcc10d84269fe10800000000000000
+      internalID: 2231923155207506769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_10
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 548
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6062c1396725e70800000000000000
+      internalID: 9102468171073718000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_11
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 547
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de6caafb9de79e70800000000000000
+      internalID: 9122020824443547347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 416
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b8f027cba181700800000000000000
+      internalID: 511187954376346526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_13
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 417
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55da14118105e6c0800000000000000
+      internalID: -4114881030633368227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_14
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 416
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec27007bbba699e0800000000000000
+      internalID: -1614914594838991640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_15
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 417
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bae0fddf7d6f870800000000000000
+      internalID: 8716391614191152011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 278
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26cd01f6251243f0800000000000000
+      internalID: -918148117033007569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 278
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b528bc10cde2914d0800000000000000
+      internalID: -3163445740793265573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_18
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 278
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203aa0676c3fcf320800000000000000
+      internalID: 2593215519168045826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_19
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 277
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a571590cfe89050800000000000000
+      internalID: 5807655329908349474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 141
+        width: 107
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1256c6d7b2612d60800000000000000
+      internalID: 7863674966087455259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 138
+        width: 120
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a2aa027f2e26030800000000000000
+      internalID: 3486598612571007490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 136
+        width: 125
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050fb1ad0cb73cbd0800000000000000
+      internalID: -2611107290721554352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_23
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 136
+        width: 121
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666a704f34e5fa780800000000000000
+      internalID: -8669607111714953626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1
+        width: 112
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bced6a368872ad5a0800000000000000
+      internalID: -6495836045787603253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2
+        width: 107
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68112c3c77e5a720800000000000000
+      internalID: 2856944059407210606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_26
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2
+        width: 112
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fefee6c822621950800000000000000
+      internalID: 6418300346232143606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_techno_cat_27
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2
+        width: 112
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2082ccacb2ede70800000000000000
+      internalID: 9141792443617247980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c4ec9e208baadf94fa04a2250b2dcad0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

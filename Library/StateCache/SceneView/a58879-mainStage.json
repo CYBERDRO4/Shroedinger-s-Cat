@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":0.13329491019248963,"y":3.888794422149658,"z":-0.7109375},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":5.390721797943115,"orthographic":true}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":2.580386161804199,"y":1.5020418167114258,"z":-15.91633415222168},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":4.861018180847168,"orthographic":true}
+>>>>>>> new_input_system

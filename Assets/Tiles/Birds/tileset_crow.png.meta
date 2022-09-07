@@ -1,0 +1,1412 @@
+fileFormatVersion: 2
+guid: 30939f84a30e32b4c8fa50dc41ad526b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6315181148442891031
+    second: tileset_crow_0
+  - first:
+      213: -6617936476987124729
+    second: tileset_crow_1
+  - first:
+      213: -2810066698275422065
+    second: tileset_crow_2
+  - first:
+      213: 6703233345920111119
+    second: tileset_crow_3
+  - first:
+      213: -6525034921035956582
+    second: tileset_crow_4
+  - first:
+      213: -3850593237584497127
+    second: tileset_crow_5
+  - first:
+      213: -5268838538384609160
+    second: tileset_crow_6
+  - first:
+      213: 807673651011607771
+    second: tileset_crow_7
+  - first:
+      213: 525779076421236951
+    second: tileset_crow_8
+  - first:
+      213: 4466125478642399725
+    second: tileset_crow_9
+  - first:
+      213: -3005613647056524345
+    second: tileset_crow_10
+  - first:
+      213: -1767951822338168046
+    second: tileset_crow_11
+  - first:
+      213: -1990350510284382260
+    second: tileset_crow_12
+  - first:
+      213: -3667254144277135684
+    second: tileset_crow_13
+  - first:
+      213: 7503072334362460320
+    second: tileset_crow_14
+  - first:
+      213: 3167193327050008049
+    second: tileset_crow_15
+  - first:
+      213: 8997936401889649225
+    second: tileset_crow_16
+  - first:
+      213: -8018280336563985672
+    second: tileset_crow_17
+  - first:
+      213: -623161933155479384
+    second: tileset_crow_18
+  - first:
+      213: -7636041490197464231
+    second: tileset_crow_19
+  - first:
+      213: -5758885203795328348
+    second: tileset_crow_20
+  - first:
+      213: -6893075447340362768
+    second: tileset_crow_21
+  - first:
+      213: 2968878132116343654
+    second: tileset_crow_22
+  - first:
+      213: 3813514711537489203
+    second: tileset_crow_23
+  - first:
+      213: -2450620044243449040
+    second: tileset_crow_24
+  - first:
+      213: -8233212316474174889
+    second: tileset_crow_25
+  - first:
+      213: 8265399841784630791
+    second: tileset_crow_26
+  - first:
+      213: -6404768728842340352
+    second: tileset_crow_27
+  - first:
+      213: -4931744129163915578
+    second: tileset_crow_28
+  - first:
+      213: 1809963657267001874
+    second: tileset_crow_29
+  - first:
+      213: -5138616208389555132
+    second: tileset_crow_30
+  - first:
+      213: 8604029109691776954
+    second: tileset_crow_31
+  - first:
+      213: 4480961961257888904
+    second: tileset_crow_32
+  - first:
+      213: -43880054340741444
+    second: tileset_crow_33
+  - first:
+      213: -6858393929702383037
+    second: tileset_crow_34
+  - first:
+      213: 1040594576126302697
+    second: tileset_crow_35
+  - first:
+      213: 5963439061948358696
+    second: tileset_crow_36
+  - first:
+      213: 5973686817030520717
+    second: tileset_crow_37
+  - first:
+      213: 2323776687931728797
+    second: tileset_crow_38
+  - first:
+      213: 8430349805128990226
+    second: tileset_crow_39
+  - first:
+      213: -8781142434509733537
+    second: tileset_crow_40
+  - first:
+      213: -426776865143417755
+    second: tileset_crow_41
+  - first:
+      213: -7880214505841842515
+    second: tileset_crow_42
+  - first:
+      213: -385344503786080734
+    second: tileset_crow_43
+  - first:
+      213: -2289716028156418827
+    second: tileset_crow_44
+  - first:
+      213: -2509009387148024342
+    second: tileset_crow_45
+  - first:
+      213: 3484846023865732118
+    second: tileset_crow_46
+  - first:
+      213: -3010997667430109140
+    second: tileset_crow_47
+  - first:
+      213: 5830307127693212930
+    second: tileset_crow_48
+  - first:
+      213: 3786471747891283537
+    second: tileset_crow_49
+  - first:
+      213: -241646371060376645
+    second: tileset_crow_50
+  - first:
+      213: -8585977376366634452
+    second: tileset_crow_51
+  - first:
+      213: 2268234681860304420
+    second: tileset_crow_52
+  - first:
+      213: -868595952486502113
+    second: tileset_crow_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset_crow_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 326
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7139e259bc704a750800000000000000
+      internalID: 6315181148442891031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704151766dd5824a0800000000000000
+      internalID: -6617936476987124729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 334
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80832ee933a009d0800000000000000
+      internalID: -2810066698275422065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 326
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f021f1e763ba60d50800000000000000
+      internalID: 6703233345920111119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ef1a87f4b6275a0800000000000000
+      internalID: -6525034921035956582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 334
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916314b0ad1ff8ac0800000000000000
+      internalID: -3850593237584497127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 326
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87072bcc34351e6b0800000000000000
+      internalID: -5268838538384609160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 336
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc5df608ee653b00800000000000000
+      internalID: 807673651011607771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_8
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 334
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8bb68c841fb4700800000000000000
+      internalID: 525779076421236951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 262
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de93dc4d57ddafd30800000000000000
+      internalID: 4466125478642399725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb212bff4ae946d0800000000000000
+      internalID: -3005613647056524345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 270
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b67814f29f677e0800000000000000
+      internalID: -1767951822338168046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf5bf791cad064e0800000000000000
+      internalID: -1990350510284382260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 269
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe384529cb4b1dc0800000000000000
+      internalID: -3667254144277135684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 267
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a04cbdf884402860800000000000000
+      internalID: 7503072334362460320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 262
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5adc9ec8124fb20800000000000000
+      internalID: 3167193327050008049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 272
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94260320c771fdc70800000000000000
+      internalID: 8997936401889649225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_17
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 270
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2aa9d348859b090800000000000000
+      internalID: -8018280336563985672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 193
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0d8b006851a57f0800000000000000
+      internalID: -623161933155479384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 193
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bb2aed8b4570690800000000000000
+      internalID: -7636041490197464231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 193
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2c6854b645410b0800000000000000
+      internalID: -5758885203795328348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 206
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f39f47d660e650a0800000000000000
+      internalID: -6893075447340362768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 208
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b483e6ee2933920800000000000000
+      internalID: 2968878132116343654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_23
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 202
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3351beedc635ce430800000000000000
+      internalID: 3813514711537489203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 193
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bca6fbd06adfdd0800000000000000
+      internalID: -2450620044243449040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 197
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7529f240501cdbd80800000000000000
+      internalID: -8233212316474174889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_26
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 199
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e84283d5994b270800000000000000
+      internalID: 8265399841784630791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 134
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00872d866c0bd17a0800000000000000
+      internalID: -6404768728842340352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 145
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce011218dcee8bb0800000000000000
+      internalID: -4931744129163915578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 144
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a34cf4b584e1910800000000000000
+      internalID: 1809963657267001874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 142
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c30e5b8c7ffa8b0800000000000000
+      internalID: -5138616208389555132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 134
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf7c40a3e6a76770800000000000000
+      internalID: 8604029109691776954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_32
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 134
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c60d0a9239f2e30800000000000000
+      internalID: 4480961961257888904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 129
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb69b44b25b146ff0800000000000000
+      internalID: -43880054340741444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_34
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 129
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342e46aee0712d0a0800000000000000
+      internalID: -6858393929702383037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 129
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9d431f04fe07e00800000000000000
+      internalID: 1040594576126302697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 81
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820ee1f2b3462c250800000000000000
+      internalID: 5963439061948358696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 81
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fb988928cc6e250800000000000000
+      internalID: 5973686817030520717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_38
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 81
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d932185f596bf3020800000000000000
+      internalID: 2323776687931728797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 65
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e3ffa5b7e9ef470800000000000000
+      internalID: 8430349805128990226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_40
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 70
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5140f4fa7d132680800000000000000
+      internalID: -8781142434509733537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_41
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 70
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56495cac3b8c31af0800000000000000
+      internalID: -426776865143417755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_42
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6aa6978aad3a290800000000000000
+      internalID: -7880214505841842515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_43
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 65
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2267ea7273bf6aaf0800000000000000
+      internalID: -385344503786080734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_44
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 65
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4e731676b4930e0800000000000000
+      internalID: -2289716028156418827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5ebe471453e2dd0800000000000000
+      internalID: -2509009387148024342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_46
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 12
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c0375cef8ac5030800000000000000
+      internalID: 3484846023865732118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 12
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c207c4d0399c636d0800000000000000
+      internalID: -3010997667430109140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20df49d317969e050800000000000000
+      internalID: 5830307127693212930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_49
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156cc1d3eff3c8430800000000000000
+      internalID: 3786471747891283537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_50
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb1fa3e7ef75acf0800000000000000
+      internalID: -241646371060376645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a5020111b78d880800000000000000
+      internalID: -8585977376366634452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e218fec636a7f10800000000000000
+      internalID: 2268234681860304420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_crow_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1133be459022f3f0800000000000000
+      internalID: -868595952486502113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4c4df639be1104e4b9da756cf456deba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
